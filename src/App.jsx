@@ -314,11 +314,11 @@ const Proposal = ({ onSuccess }) => {
 
         <div className="flex items-center justify-center gap-3 flex-wrap mt-4">
 
-          <MoonStar size={40} className="text-pink-300" />
+          <MoonStar size={60} className="text-pink-300" />
 
           <span>should we make this canon?</span>
 
-          <Heart size={40} className="text-pink-300 fill-pink-300" />
+          <Heart size={60} className="text-pink-300 fill-pink-300" />
 
         </div>
 
